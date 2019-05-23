@@ -6,6 +6,9 @@
 Goals
 ------------
 * Reduce barrier to entry for running Tensorflow Lite Micro toolchain on embedded platforms
+  * Eliminate the need to download SDK's, setup processor specific toolchains and debuggers as well as OS specific environments
+  * Fast prototyping at the expense of some memory and speed
+  * Enable ML practitioners (who are typically well versed in Python) to work with microcontrollers
 * Enable coexistence and reuse of various micropython libraries with TF
 
 
